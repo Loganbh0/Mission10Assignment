@@ -1,3 +1,6 @@
+// This file defines the BowlerList component, 
+// which fetches and displays a list of bowlers from the backend API.
+
 import { useEffect, useState } from "react";
 import type { bowler } from "./types/bowler";
 

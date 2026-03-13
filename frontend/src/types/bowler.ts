@@ -1,3 +1,5 @@
+// This file defines the TypeScript type for a bowler object.
+
 export type bowler = {
   bowlerId: number;
   bowlerFirstName: string;

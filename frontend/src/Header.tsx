@@ -1,3 +1,6 @@
+// This file defines the Header component, 
+// which displays the title and description of the Bowling List Dataset application.
+
 function Header() {
   return (
     <>
